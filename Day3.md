@@ -279,9 +279,9 @@ t_p(↑) = time(output rises to 50%) - time(input rises to 50%)
 t_p(↓) = time(output falls to 50%) - time(input falls to 50%)
 ```
 LEF File Creation
-Now that we have successfully characterized the inverter, the next step is to create a LEF (Library Exchange Format) file.
 
-wget http://opencircuitdesign.com/open_pdks/archive/drc_tests.tgz
+Library exchange format
+http://opencircuitdesign.com/open_pdks/archive/drc_tests.tgz
 
 VLSI Layout Geometries and DRC Errors
 
