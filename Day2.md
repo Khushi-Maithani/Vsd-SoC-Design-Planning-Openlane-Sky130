@@ -117,7 +117,9 @@ Library binding associates standard cells in the netlist with physical library c
 
 ---
 
-## 3. Cell Design & Characterization Flow
+## 3.Cell Design & Characterization Flow              
+
+<img width="309" height="461" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/cec7167d-2f00-4f01-a052-9cf9adaa4909" />
 
 ### Inputs
 
