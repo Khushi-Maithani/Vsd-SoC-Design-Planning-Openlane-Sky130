@@ -67,7 +67,9 @@ This section outlines the foundational steps in physical layout creation and an 
 
   DRC error as geometrical construct
    -->N well rules
+
    <img width="559" height="394" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/c3a81619-ec62-46af-83b0-123af714a272" />
+
 
 ### 2.3 Gate Terminal Formation
 
