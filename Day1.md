@@ -43,6 +43,8 @@ This section covers the basics of computer hardware, RISC-V architecture, softwa
 ## **2. SoC Design and OpenLane**
 
 This section covers digital ASIC design concepts, RTL-to-GDS2 flow, and key steps in layout and verification.
+<img width="604" height="584" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/814fa6d9-3369-4eec-8097-2f68e5a13218" />
+
 
 **ASIC Design Concepts:**
 
