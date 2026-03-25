@@ -189,4 +189,22 @@ PDN Generation:
 
 <img width="789" height="477" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/d6333d43-a5c3-4b25-9521-8d8e9e6593be" />
 
+Placement in VLSI Design
+
+Placement plays a crucial role in VLSI (Very Large Scale Integration) design. It involves determining the physical locations of standard cells or logic elements within a chip or block. Let's break it down:
+
+Global Placement:Global placement assigns general locations to movable objects (cells).
+Some overlaps between placed objects are allowed during this stage.
+The goal is to achieve a rough layout that satisfies area constraints.
+
+Detailed Placement:Detailed placement refines the object locations obtained from global placement.
+It enforces non-overlapping constraints and ensures that cells are placed on legal cell sites.
+The quality of detailed placement significantly impacts subsequent routing stages.
+
+
+magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
+
+
+<img width="1600" height="787" alt="image" src="https://github.com/user-attachments/assets/d9dd4055-be22-49c7-9eed-1a06ab723f3c" />
+
 
