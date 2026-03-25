@@ -278,8 +278,34 @@ t_p(↑) = time(output rises to 50%) - time(input rises to 50%)
 ```
 t_p(↓) = time(output falls to 50%) - time(input falls to 50%)
 ```
+LEF File Creation
+Now that we have successfully characterized the inverter, the next step is to create a LEF (Library Exchange Format) file.
 
----
+wget http://opencircuitdesign.com/open_pdks/archive/drc_tests.tgz
+
+VLSI Layout Geometries and DRC Errors
+
+In this section, we explore independent example layout geometries (M3.1, M3.2, M3.5, and M3.6) and highlight the specific DRC (Design Rule Check) errors associated with each:
+
+M3.1 (Metal Width DRC):
+
+Violation: The metal trace width in M3.1 is below the specified minimum width threshold.
+Error: Metal width does not meet design rules.
+M3.2 (Metal Spacing DRC):
+
+Violation: The distance between adjacent metal traces in M3.2 does not meet the required spacing.
+Error: Metal spacing violation.
+M3.5 (Via Overlapping DRC):
+
+Violation: The vias in M3.5 overlap with each other.
+Error: Via overlapping issue.
+M3.6 (Minimum Area DRC):
+
+Violation: The enclosed area within M3.6 does not meet the specified minimum area requirement.
+Error: Minimum area violation.
+Use the command magic -d XR to open the Magic tool
+
+<img width="758" height="300" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/47318467-adea-4b1c-8efd-4f3adc063027" />
 
 ## Conclusion
 
