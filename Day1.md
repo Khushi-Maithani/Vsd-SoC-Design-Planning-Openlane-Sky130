@@ -153,4 +153,15 @@ This section introduces OpenLane directory structure, project preparation, runni
 * Learned verification methods like **DRC, LVS, and STA**.
 
 ---
+Directory Structure Setup:
+<img width="959" height="517" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/81a11c50-083b-4455-87ee-cb1ca6aa30c8" />
+
+synthesis:
+
+<img width="942" height="516" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/900ba906-db92-418b-a581-755a014d7d48" />
+
+successful synthesis:
+
+<img width="971" height="509" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/dd910ab6-b728-4225-b0ec-0d6d76a0f7a9" />
+
 
