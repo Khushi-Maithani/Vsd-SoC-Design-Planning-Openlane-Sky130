@@ -10,6 +10,7 @@ Day 1 introduces the fundamentals of SoC design using open-source EDA tools, Sky
 This section covers the basics of computer hardware, RISC-V architecture, software-to-hardware translation, and standard libraries.
 
 **Chip Packaging and Fundamentals:**
+
 <img width="677" height="431" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/c046d4bd-5ef2-484c-9695-3b2587ee6145" />
 
 * **QFN48 Package:** A compact IC package with 48 pins designed for surface mounting.
