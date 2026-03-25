@@ -18,9 +18,12 @@ The session was divided into four parts:
 
 ## 1. Chip Floor Planning Considerations
 
-### Floor Planning
+### Floor planning
+<img width="747" height="550" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/9d876163-1e94-4ceb-bdf1-8ffe65917897" />
+
 
 Floor planning defines how blocks in an SoC are placed within the chip area. A good floor plan reduces wire length, improves timing, and simplifies routing. A bad floor plan causes congestion, noise, and timing violations.
+
 
 ### Utilization Factor
 
