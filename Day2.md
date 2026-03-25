@@ -177,3 +177,13 @@ Day 2 provided an understanding of:
 * Timing characterization essentials
 
 These are foundational concepts for complex back-end design flows in SoC planning
+
+PDN Generation:
+
+<img width="982" height="264" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/51e77087-6bfb-4b87-af14-a556a51576d4" />
+
+<img width="362" height="532" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/e912a95a-efd7-42e7-a84d-f33c5fcec1c3" />
+
+<img width="789" height="477" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/d6333d43-a5c3-4b25-9521-8d8e9e6593be" />
+
+
