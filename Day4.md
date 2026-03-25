@@ -221,6 +221,7 @@ t_p(↑) = T(output rises to 50%) - T(input rises to 50%)
 t_p(↓) = T(output falls to 50%) - T(input falls to 50%)
 ```
 This is how a successful run_placement will look:
+
 <img width="601" height="576" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/d37523f7-b2be-4550-94bb-b8437ca3c619" />
 
 ---
