@@ -65,6 +65,10 @@ This section outlines the foundational steps in physical layout creation and an 
 * p‑Well created in n‑type substrate for NMOS
 * Well formation is the first step in establishing transistor regions
 
+  DRC error as geometrical construct
+   -->N well rules
+   <img width="559" height="394" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/c3a81619-ec62-46af-83b0-123af714a272" />
+
 ### 2.3 Gate Terminal Formation
 
 * Pattern polysilicon gate regions
