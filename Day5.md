@@ -162,12 +162,26 @@ This variable must be defined in OpenLane configurations to indicate that all st
 ### 4.2 PDN Configuration
 
 `gen_pdn` or PDN enable flags in config files tell the flow to generate and include a PDN before routing.
+           It sets up the power grid, defines power rails, and ensures proper connectivity.
 
+Common Issues
+
+LIB_SYNTH_COMPLETE:
+This variable must be defined in the config.tcl file.
+It is called by the gen_pdn procedure defined in the or_pdn.tcl file.
+
+LEF_MERGED_UNPADDED:
+Ensure that this variable is correctly set in the config.tcl file.
+It provides essential information for PDN generation.
 ---
 
 ## 5. Routing Control and Utility Commands
 
 During routing, these checks and commands manage routing strategies and validations.
+
+Command to perform routing
+
+<img width="591" height="342" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/ea943c3b-b461-4fa0-b1aa-9632ec7bf634" />
 
 ```bash
 # Check value of current diff (difference between estimates)
