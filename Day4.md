@@ -114,6 +114,14 @@ The four parts of the day were:
 * Use real libraries and CTS assignments
 * Observe effect of CTS buffers on timing slack
 
+--->   Commands for tkcon window to set grid as tracks of locali layer
+
+  # Get syntax for grid command help grid
+
+  # Set grid values accordingly grid 0.46um 0.34um 0.23um 0.17um
+
+  <img width="415" height="543" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/77bedff2-3408-4fd9-8eba-c8f522b811ce" />
+
 ---
 
 ## Keyword Glossary 
